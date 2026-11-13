@@ -4,7 +4,7 @@
 
 Try JobTrack here:
 
-https://irmak-arslan.github.io/job-application-tracker/
+https://irmak-arslan.github.io/job-application-tracke/
 
 ## JobTrack — Job Application Tracker
 

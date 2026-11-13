@@ -115,11 +115,6 @@ applicationForm.addEventListener("submit", function(event) {
      }
      
 
-    // Exit editing mode if the edited application was deleted
-     if (editingApplicationId === id) {
-         resetEditingMode();
-     }
-
      // Refresh dashboard
      displayApplications();
      updateStatistics();
